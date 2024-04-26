@@ -5,5 +5,6 @@
    - Rust Language
    - Cpp
    - Linux & Devops
-- 📫 How to reach me use discord: _0rasa
+- 📫 How to reach me ?
+   - Only Discord: _0rasa
 - 😄 Pronouns: Mr.
