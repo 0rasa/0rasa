@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @0rasa. I'm one of ZTM students. I'm currently working as a IT support. I have been coding for more than 8 years, but stopped due to misfortune and now I'm coming back in coding.
+- 👋 Hi, I’m @0rasa. I'm one of ZTM students. I'm currently working as a IT support. I have been coding for more than 8 years, but stopped coding due to misfortune and now I'm coming back to coding and software engineering industry. Hopefully one day I will get a job in the field of software engineering.
 - 👀 I’m interested in softwar engineering, gaming, anime.
 - 🌱 I’m currently learning many things:
    - Machine Learning & AI
