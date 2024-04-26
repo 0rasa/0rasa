@@ -8,3 +8,5 @@
 - 📫 How to reach me ?
    - Only Discord: _0rasa
 - 😄 Pronouns: Mr.
+- 💻 OS: Fedora Linux
+
